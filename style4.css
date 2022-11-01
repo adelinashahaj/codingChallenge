@@ -1,0 +1,86 @@
+body{
+  background-image:url(background.jpg);
+  background-size: 1550px;
+}
+/* inizio del proggrtto: header*/
+
+.logo-green{
+  width: 35%;
+  margin-left: 35%;
+  display: inline-block;
+
+}
+.container{
+  width: 600px;
+  margin: auto;
+  padding: 80px;
+  border:1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px 10px;
+  background: transparent;
+  background: rgba(0, 0, 0, 0.5);
+  margin-bottom: -55px;
+  margin-top:25px;
+}
+h2 {
+  text-align: center;
+  color: limegreen;
+  margin-bottom: 1px;
+  margin-top: 10px;
+  font-family: Gill Sans, sans-serif;
+}
+.row{
+  text-align: center;
+  background-color: limegreen;
+  padding: 6px;
+}
+.credenziali{
+  text-align: center;
+  width:50px;
+}
+.credenziali1{
+  text-align: center;
+  width: 130px;
+}
+.credenziali2{
+  text-align: center;
+  width: 80px;
+}
+
+/* fine del proggetto: header*/
+
+/* inizio del proggrtto: body*/
+.body{
+  display: inline-block;
+  margin-bottom: 1px;
+  color: white;
+  font-family: Gill Sans, sans-serif;
+}
+.body1,.body2{
+  margin-top: 1px;
+  margin-bottom: 1px;
+  color: LightYellow;
+  font-family: Gill Sans, sans-serif;
+}
+.carico{
+  height: 20px;
+  width: 150px;
+  border: 1px solid orange;
+  background: orange;
+  border-radius: 5px 5px;
+}
+.carico1{
+  height: 20px;
+  width: 300px;
+  border: 1px solid limegreen;
+  background: limegreen;
+  border-radius: 5px 5px;
+}
+.carico2{
+  height: 20px;
+  width: 80px;
+  border: 1px solid #D44848;
+  background: #D44848;
+  border-radius: 5px 5px;
+}
+
+/* fine del proggetto: body*/
